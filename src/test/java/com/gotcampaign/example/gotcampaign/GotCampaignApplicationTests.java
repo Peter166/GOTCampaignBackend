@@ -1,4 +1,4 @@
-package com.gotcampaign.example.gotcampaign;
+package com.gotcampaign.example.GOTCampaign;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

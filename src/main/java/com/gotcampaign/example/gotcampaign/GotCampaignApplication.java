@@ -1,4 +1,4 @@
-package com.gotcampaign.example.gotcampaign;
+package com.gotcampaign.example.GOTCampaign;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
